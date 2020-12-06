@@ -1,4 +1,4 @@
-# git new Page clone
+# TypeScript & Redux 
 
 
 ### 프로젝트 소개 및 목적 
